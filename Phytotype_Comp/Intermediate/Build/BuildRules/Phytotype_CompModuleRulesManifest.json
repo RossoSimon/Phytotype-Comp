@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rosse\\OneDrive\\Documenti\\GitHub\\Phytotype-Comp\\Phytotype_Comp\\Intermediate\\Source\\Phytotype_Comp.Build.cs",
+		"C:\\Users\\rosse\\OneDrive\\Documenti\\GitHub\\Phytotype-Comp\\Phytotype_Comp\\Intermediate\\Source\\Phytotype_Comp.Target.cs",
+		"C:\\Users\\rosse\\OneDrive\\Documenti\\GitHub\\Phytotype-Comp\\Phytotype_Comp\\Intermediate\\Source\\Phytotype_CompClient.Target.cs",
+		"C:\\Users\\rosse\\OneDrive\\Documenti\\GitHub\\Phytotype-Comp\\Phytotype_Comp\\Intermediate\\Source\\Phytotype_CompEditor.Target.cs",
+		"C:\\Users\\rosse\\OneDrive\\Documenti\\GitHub\\Phytotype-Comp\\Phytotype_Comp\\Intermediate\\Source\\Phytotype_CompServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
