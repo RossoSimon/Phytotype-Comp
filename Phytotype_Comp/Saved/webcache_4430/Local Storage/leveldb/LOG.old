@@ -1,2 +1,6 @@
-2026/06/03-16:58:49.000 4cc4 Creating DB C:/Users/rosse/OneDrive/Documenti/UNI/ABABO/DEH PEFFOH/Phytotype_Comp/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/03-16:58:49.016 4cc4 Reusing MANIFEST C:/Users/rosse/OneDrive/Documenti/UNI/ABABO/DEH PEFFOH/Phytotype_Comp/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/27-16:21:04.305 ca8 Reusing MANIFEST C:/Users/rosse/OneDrive/Documenti/GitHub/Phytotype-Comp/Phytotype_Comp/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/27-16:21:04.324 ca8 Recovering log #3
+2026/06/27-16:21:04.332 ca8 Reusing old log C:/Users/rosse/OneDrive/Documenti/GitHub/Phytotype-Comp/Phytotype_Comp/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/06/27-16:24:06.641 3ef4 Level-0 table #5: started
+2026/06/27-16:24:13.292 3ef4 Level-0 table #5: 64783 bytes OK
+2026/06/27-16:24:13.297 3ef4 Delete type=0 #3
