@@ -4,7 +4,7 @@
 /I "Runtime/AutoRTFM/Public"
 /I "../Intermediate/Build/Win64/UnrealGame/Inc/ImageCore/UHT"
 /I "Runtime/ImageCore/Public"
-/I "C:/Users/rosse/OneDrive/Documenti/GitHub/Phytotype-Comp/Phytotype_Comp/Intermediate/Build/Win64/x64/Phytotype_Comp/Development/Core"
+/I "D:/GITHUB/Phytotype-Comp/Phytotype_Comp/Intermediate/Build/Win64/x64/Phytotype_Comp/Development/Core"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"

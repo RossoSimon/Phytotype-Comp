@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\phytotype-comp\\phytotype_comp\\intermediate\\build\\win64\\x64\\unrealgame\\development\\phytotype_comp\\module.phytotype_comp.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\phytotype-comp\\phytotype_comp\\intermediate\\build\\win64\\x64\\phytotype_comp\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\phytotype-comp\\phytotype_comp\\intermediate\\build\\win64\\x64\\unrealgame\\development\\phytotype_comp\\definitions.phytotype_comp.h",
+            "d:\\github\\phytotype-comp\\phytotype_comp\\intermediate\\source\\phytotype_comp.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

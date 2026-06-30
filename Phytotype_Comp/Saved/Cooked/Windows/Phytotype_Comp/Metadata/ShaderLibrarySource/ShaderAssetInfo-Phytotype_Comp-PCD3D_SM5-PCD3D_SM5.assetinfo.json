@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D047880233735B24F5F559B16E83AEA1CE0C7AC8",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
-			]
-		},
-		{
 			"ShaderMapHash": "11558C033AF806037BDBD583E236F7D04E9F8948",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
@@ -32,9 +26,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "18339905D993830C9B91CA23E065C21D08481936",
+			"ShaderMapHash": "F7125509DA74B6DA71B6E5082846E93D751886C2",
 			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
 			]
 		},
 		{
@@ -48,6 +42,12 @@
 			"Assets": [
 				"/Game/ARID/3D_ARID/arid_ill_003_banner/Empty",
 				"/Game/ARID/3D_ARID/arid_ill_018_banner/Empty"
+			]
+		},
+		{
+			"ShaderMapHash": "B314641194380B606B4EBF3F8D8E5571548E966C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
 			]
 		},
 		{
@@ -85,6 +85,12 @@
 			"ShaderMapHash": "D680A4238A65B65591F96617C36889C4F1A4B818",
 			"Assets": [
 				"/Game/ARID"
+			]
+		},
+		{
+			"ShaderMapHash": "06957224864E07976DFC1B4804970597EF56B042",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
 			]
 		},
 		{
@@ -130,9 +136,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2A38C731BD9522B06D1B7033AE09E256F5A4ABA8",
+			"ShaderMapHash": "5710F431963151BFB2EB755C662D7BDE9A9F6BFA",
 			"Assets": [
-				"/InterchangeAssets/gltf/M_Default"
+				"/Game/torii-gate/textures/torii"
+			]
+		},
+		{
+			"ShaderMapHash": "2025D932E96BC41E56578BBCE8EDF98555937B26",
+			"Assets": [
+				"/Game/gravel-ground-module-scan-dry-2/source/mat_018"
 			]
 		},
 		{
@@ -208,15 +220,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "54F7B05266D2A0370074DDC36DDF0F6A6322240D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
 			"ShaderMapHash": "D0A8E9542B247F4745835AA192E4C6A144C1610B",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
 			]
 		},
 		{
-			"ShaderMapHash": "B62D79567CDCA9396571905D8D14C2F31AE3C9E5",
+			"ShaderMapHash": "76CA48566AEFA7085357A034A14BB25F1909030C",
 			"Assets": [
-				"/Game/ARID/3D_ARID/arid_ill_003_low/arid_ill_003_low"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B6CC0059F4164A6E538BD0E8984CCEDB406F9582",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
 			]
 		},
 		{
@@ -250,27 +274,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C090C860067F371AD66DCA1AAF866811990FE760",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "2B8C2C649D07F4596BDE22229D267940AF6BCD85",
-			"Assets": [
-				"/InterchangeAssets/gltf/M_Unlit"
-			]
-		},
-		{
 			"ShaderMapHash": "4EFF5364D1CEE9F6170DBEB8CD26BA2CC9A43C5C",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4FBD5D66049160C3A68C57913C8C8326DFD11C68",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
 			]
 		},
 		{
@@ -282,12 +288,8 @@
 		{
 			"ShaderMapHash": "58D746672FE8F09C56CC30B0293D1E62148F3D01",
 			"Assets": [
-				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_002/mat_arid_002",
-				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_004/mat_arid_004",
-				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_008/mat_arid_008",
-				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_012/mat_arid_012",
 				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_014/mat_arid_014",
-				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_015/mat_arid_015"
+				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_023/mat_arid_023"
 			]
 		},
 		{
@@ -353,13 +355,26 @@
 		{
 			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "DA282C82EBA5F6D0F9A2AF7CC2CD27A80F17F3FD",
+			"Assets": [
+				"/Game/M_HeatHazePP"
 			]
 		},
 		{
 			"ShaderMapHash": "1D7B8F83398BB5D512869A0DD96553A8600BD3C2",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "D3634185E0BF3F521709D425CE85CA02A96F4342",
+			"Assets": [
+				"/Niagara/DefaultAssets/M_BlackParticles"
 			]
 		},
 		{
@@ -390,6 +405,11 @@
 			"ShaderMapHash": "71369095E76E5B74CCA9712514B329BA4D374CF6",
 			"Assets": [
 				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_001/mat_arid_001",
+				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_002/mat_arid_002",
+				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_004/mat_arid_004",
+				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_008/mat_arid_008",
+				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_012/mat_arid_012",
+				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_015/mat_arid_015",
 				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_016/mat_arid_016",
 				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_017/mat_arid_017",
 				"/Game/ARID/SPRITE_ARID_2D/sprite_arid_019/mat_arid_019",
@@ -417,6 +437,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F8187B9A9B8AB280A0E1E3D3A8B4619AC58A2259",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
 			"ShaderMapHash": "63E4979B9585C1B7328360920B426547DD387DA9",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -437,7 +463,7 @@
 		{
 			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/MaskBrushMaterial"
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
 		{
@@ -450,12 +476,6 @@
 			"ShaderMapHash": "0D06D6A1ADEB38E9B8EE75D14841CEA5B4DEDE4A",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
-			"Assets": [
-				"/Game/torii-gate/textures/torii"
 			]
 		},
 		{
@@ -485,21 +505,22 @@
 		{
 			"ShaderMapHash": "B16160B2929A60B0D98A0FAB083C17865DF32D1A",
 			"Assets": [
+				"/Game/ARID/3D_ARID/arid_ill_003_low/arid_ill_003_low",
 				"/Game/ARID/3D_ARID/arid_ill_006_banner/mat_arid_006",
 				"/Game/ARID/3D_ARID/arid_ill_018_low/mat_arid_018",
 				"/Game/ARID/3D_ARID/arid_ill_021_low/mat_arid_021"
 			]
 		},
 		{
-			"ShaderMapHash": "5A8861B318C19E40B82A0FF7BFF6A4D51A6C5D1C",
+			"ShaderMapHash": "135A17B32124204D78E8BED9CAF1610398783DEA",
 			"Assets": [
-				"/InterchangeAssets/gltf/M_Transmission"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
 			]
 		},
 		{
-			"ShaderMapHash": "47B812B840C60E521A53FC06F80E0744ECE26C31",
+			"ShaderMapHash": "5A8861B318C19E40B82A0FF7BFF6A4D51A6C5D1C",
 			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+				"/InterchangeAssets/gltf/M_Transmission"
 			]
 		},
 		{
@@ -557,15 +578,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F7ACEBC3EE8035D2D44D7412FACC9CF57532AAB9",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
-			]
-		},
-		{
 			"ShaderMapHash": "13F8C5C64A890D7F32A5B240C050BA0AD9686B4D",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "033E82C79B7B8078C21494AFF42B638433C51525",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -581,15 +602,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E294CDCBD82C42FF63660BB7B620822AB9F55F51",
+			"ShaderMapHash": "B1A932CEF4728E1EB857A3103D76051F6379E144",
 			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "7BA06AD1171A648CDE3DE1B77F414B3ED288076B",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
 			]
 		},
 		{
@@ -599,15 +615,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B04A4BE028A3BFBC8E3DFE4632D6DE7AAD4CA323",
+			"ShaderMapHash": "5FE113DE4952F6927CD70E1ADFF2D656D010DD15",
 			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
 			]
 		},
 		{
 			"ShaderMapHash": "BC5D2AE1DEA07427A88C0D622F3BD806579C29A6",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "0F5576E2FE992C1E13F3447AF172D1F4356B4EFF",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
 			]
 		},
 		{
@@ -641,12 +663,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E452E6F110508122B1D19C867FDF864CD0D1B7C7",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
-			]
-		},
-		{
 			"ShaderMapHash": "78F881F7DF9F735B8EF632B427AC23B450E04B52",
 			"Assets": [
 				"/Game/ARID/3D_ARID/arid_ill_005_banner/Empty",
@@ -663,6 +679,12 @@
 			"ShaderMapHash": "D4A540FA14E8357F4678356408C53D27D9462204",
 			"Assets": [
 				"/Game/ARID/3D_ARID/arid_ill_005_banner/mat_arid_005"
+			]
+		},
+		{
+			"ShaderMapHash": "714DA6FA38CC90F94DF9FC7AA2EE973F1F5DE7A6",
+			"Assets": [
+				"/Game/Particles/Flying_Embers"
 			]
 		},
 		{

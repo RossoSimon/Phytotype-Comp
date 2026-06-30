@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.Phytotype_Comp.cpp.obj": [
+			"Phytotype_Comp.cpp.obj"
+		]
 	}
 }

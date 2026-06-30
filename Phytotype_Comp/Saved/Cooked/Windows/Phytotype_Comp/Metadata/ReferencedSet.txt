@@ -72,6 +72,7 @@
 /engine/animation/defaultrecorderbonecompression
 /engine/animation/defaultvariableframestrippingsettings
 /engine/arttools/rendertotexture/meshes/s_1_unit_plane
+/engine/arttools/rendertotexture/textures/127grey
 /engine/basicshapes/basicshapematerial
 /engine/basicshapes/cone
 /engine/basicshapes/cube
@@ -258,6 +259,7 @@
 /engine/functions/engine_materialfunctions03/math/withinrangefloat2
 /engine/maps/entry
 /engine/maps/entry_builtdata
+/engine/maptemplates/tilingnoise05
 /engine/mobileresources/hud/virtualjoystick_background
 /engine/mobileresources/hud/virtualjoystick_thumb
 /engine/vreditor/laserpointer/vr_laserpower_01
@@ -302,6 +304,7 @@
 /game/arid/3d_arid/arid_ill_003_banner/arid_ill_003_banner
 /game/arid/3d_arid/arid_ill_003_banner/empty
 /game/arid/3d_arid/arid_ill_003_banner/sticker_arid_013
+/game/arid/3d_arid/arid_ill_003_low/arid_ill_003
 /game/arid/3d_arid/arid_ill_003_low/arid_ill_003_low
 /game/arid/3d_arid/arid_ill_003_low/arid_ill_003_low1
 /game/arid/3d_arid/arid_ill_003_low/texture_arid_003
@@ -312,6 +315,7 @@
 /game/arid/3d_arid/arid_ill_005_banner/sticker_arid_006
 /game/arid/3d_arid/arid_ill_005_banner/texture_arid_005
 /game/arid/3d_arid/arid_ill_005_banner/texture_arid_005_normal
+/game/arid/3d_arid/arid_ill_005_low/arid_ill_005
 /game/arid/3d_arid/arid_ill_005_low/arid_ill_005_low
 /game/arid/3d_arid/arid_ill_006_banner/arid_ill_006_banner
 /game/arid/3d_arid/arid_ill_006_banner/empty_001
@@ -319,10 +323,12 @@
 /game/arid/3d_arid/arid_ill_006_banner/sticker_arid_010
 /game/arid/3d_arid/arid_ill_006_banner/texture_arid_006
 /game/arid/3d_arid/arid_ill_006_banner/texture_arid_006_normal
+/game/arid/3d_arid/arid_ill_006_low/arid_ill_006
 /game/arid/3d_arid/arid_ill_006_low/arid_ill_006_low
 /game/arid/3d_arid/arid_ill_018_banner/arid_ill_018_banner
 /game/arid/3d_arid/arid_ill_018_banner/empty
 /game/arid/3d_arid/arid_ill_018_banner/sticker_arid_007
+/game/arid/3d_arid/arid_ill_018_low/arid_ill_018
 /game/arid/3d_arid/arid_ill_018_low/arid_ill_018_low
 /game/arid/3d_arid/arid_ill_018_low/mat_arid_018
 /game/arid/3d_arid/arid_ill_018_low/texture_arid_018
@@ -330,6 +336,7 @@
 /game/arid/3d_arid/arid_ill_021_banner/arid_ill_021_banner
 /game/arid/3d_arid/arid_ill_021_banner/empty_001
 /game/arid/3d_arid/arid_ill_021_banner/sticker_arid_002
+/game/arid/3d_arid/arid_ill_021_low/arid_ill_021
 /game/arid/3d_arid/arid_ill_021_low/arid_ill_021_low
 /game/arid/3d_arid/arid_ill_021_low/mat_arid_021
 /game/arid/3d_arid/arid_ill_021_low/texture_arid_021
@@ -367,6 +374,9 @@
 /game/arid/sprite_arid_2d/sprite_arid_022/mat_arid_022
 /game/arid/sprite_arid_2d/sprite_arid_022/sprite_arid_022
 /game/arid/sprite_arid_2d/sprite_arid_022/sprite_arid__022_
+/game/arid/sprite_arid_2d/sprite_arid_023/mat_arid_023
+/game/arid/sprite_arid_2d/sprite_arid_023/sprite_arid_023
+/game/arid/sprite_arid_2d/sprite_arid_023/sprite_arid__023_
 /game/arid/sprite_arid_2d/sprite_arid_024/mat_arid_024
 /game/arid/sprite_arid_2d/sprite_arid_024/sprite_arid_024
 /game/arid/sprite_arid_2d/sprite_arid_024/sprite_arid__024_
@@ -376,7 +386,9 @@
 /game/arid/sprite_arid_2d/sprite_arid_026/mat_arid_026
 /game/arid/sprite_arid_2d/sprite_arid_026/sprite_arid_026
 /game/arid/sprite_arid_2d/sprite_arid_026/sprite_arid__26_
+/game/bp_bannertrigger
 /game/bp_gate
+/game/bp_imagetrigger
 /game/characters/mannequins/anims/unarmed/abp_unarmed
 /game/characters/mannequins/anims/unarmed/bs_idle_walk_run
 /game/characters/mannequins/anims/unarmed/jog/mf_unarmed_jog_bwd
@@ -423,6 +435,12 @@
 /game/firstperson/blueprints/bp_firstpersoncharacter
 /game/firstperson/blueprints/bp_firstpersongamemode
 /game/firstperson/blueprints/bp_firstpersonplayercontroller
+/game/gravel-ground-module-scan-dry-2/source/mat_018
+/game/gravel-ground-module-scan-dry-2/source/sketchfab_2022_07_09_23_40_01
+/game/gravel-ground-module-scan-dry-2/textures/ao
+/game/gravel-ground-module-scan-dry-2/textures/normal
+/game/gravel-ground-module-scan-dry-2/textures/roughness_channels_g
+/game/gravel-ground-module-scan-dry-2/textures/tex_gravel
 /game/input/actions/ia_interact
 /game/input/actions/ia_jump
 /game/input/actions/ia_look
@@ -433,12 +451,19 @@
 /game/input/touch/bpi_touchinterface
 /game/input/touch/ui_thumbstick
 /game/input/touch/ui_touchsimple
+/game/m_heathazepp
+/game/particles/flying_embers
+/game/particles/ns_interactionsparks
+/game/spectral/3d_spectral/spectral_ill_009/spectral_ill_009
 /game/torii-gate/source/torii_gate_mesh
 /game/torii-gate/textures/gate_statue_lambert1_basecolor
 /game/torii-gate/textures/gate_statue_lambert1_metallic
 /game/torii-gate/textures/gate_statue_lambert1_normal
 /game/torii-gate/textures/gate_statue_lambert1_roughness
 /game/torii-gate/textures/torii
+/game/widget/wbp_banner
+/game/widget/wbp_infopanel
+/game/widget/wbp_interactprompt
 /hairstrands/materials/haircardsdefaultmaterial
 /hairstrands/materials/hairdebugmaterial
 /hairstrands/materials/hairdefaultmaterial
@@ -550,6 +575,9 @@
 /interchangeassets/gltf/textures/t_white_srgb
 /interchangeassets/utilities/new_lut
 /mediaplate/sm_mediaplatescreen
+/niagara/defaultassets/defaultspritematerial
+/niagara/defaultassets/m_blackparticles
+/niagara/vectorfields/assets/tilingcurl32
 /nnedenoiser/nne_oidn2-3-0_rt_hdr_alb_nrm__dyn__fp16_opset11_denoisealpha
 /nnedenoiser/nne_oidn2-3-0_rt_hdr_alb_nrm__dyn__fp16_opset11_forwardalpha
 /nnedenoiser/nne_oidn2-3-0_rt_hdr_alb_nrm_small__dyn__fp16_opset11_denoisealpha
